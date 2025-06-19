@@ -1,0 +1,15 @@
+P001,30,passenger,8,200
+F002,45,freight,15000,coal
+P003,15,passenger,10,250
+F004,60,freight,12000,containers
+P005,90,passenger,12,300
+F006,75,freight,18000,liquids
+P007,0,passenger,6,100
+F008,0,freight,11000,grain
+P009,15,passenger,9,220
+F010,30,freight,16000,steel
+P011,45,passenger,11,270
+F012,30,freight,15500,wood
+P013,60,passenger,7,180
+F014,90,freight,14000,oil
+P015,120,passenger,10,240
