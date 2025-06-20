@@ -13,7 +13,7 @@ namespace TrainStationUFV
             try
             {
                 Console.Write("Enter the path to the train CSV file: ");
-                string? filePath = Console.ReadLine(); //train.csv
+                string? filePath = Console.ReadLine(); //C:\Users\roblu\OneDrive\Desktop\PracticalWork1Extraordinary\oop_pw1_ext_2425\src\pw1\train.csv
 
                 if (string.IsNullOrWhiteSpace(filePath) || !File.Exists(filePath))
                 {
