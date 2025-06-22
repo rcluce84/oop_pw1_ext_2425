@@ -33,14 +33,19 @@ Key Design Decisions
 .Display and simulation output designed for clarity and simplicity in a terminal.
 
 3.  Class Diagram
-:
-:
-4. Problem Faced
+![image](https://github.com/user-attachments/assets/a501de1b-23c8-44a2-89a5-68e2b20de5ff)
+![image](https://github.com/user-attachments/assets/5ae7749d-627d-40f2-b684-1d8d7eee4f07)
+![image](https://github.com/user-attachments/assets/39a55ffc-c082-478a-864c-26cd130ece70)
+
+
+
+
+5. Problem Faced
 . Manual input validation: Initially considered reusing eror handler classes but simplified using tryParse.
 .Platform assignment logic. Ensured trains dont get  docked if no free platform is available.
 Tick sistem: Ensure both platform and train status update syncrhonously every tick.
 
-5. Conclusions
+6. Conclusions
 This project reinforced knowledge of:
 Inheritance and polymorphism in C#
 State based simulation design
